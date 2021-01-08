@@ -1,0 +1,28 @@
+
+body {
+    background-image: linear-gradient(to bottom right, #df3165 , #dfbcdf);
+    text-align: center;
+}
+
+
+h1 {
+    font-family: tahoma , sans-serif;
+    font-size:75px;
+    color: whitesmoke;
+}
+
+p {
+    font-size:40px ;
+}
+
+p.images {
+    margin: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+h2 {
+    font-family: tahoma , sans-serif;
+    font-size:40px;
+    color: whitesmoke;
+}
