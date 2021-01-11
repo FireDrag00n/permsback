@@ -35,41 +35,47 @@ h2 {
     font-family:'Rubik', sans-serif;
 }
 
-.nav li a {
-
-}
-
-ul {
+.topnav ul {
     list-style-type: none;
     background-color: rgb(255, 206, 233);
-    width: 100%;
+    width: 1850px;
     height: 69px;
     margin: 0 auto;
     margin-bottom: 10px;
+    border-radius: 25px;
+    display:block;
+    padding: 0;
+    box-shadow:0px 8px 16px 0px rgba(0,0,0,0.2);
 }
 
-li {
+.topnav li {
     display: inline;
     margin-inline: 20px;
     margin-right: 69px;
     font-family:'Rubik', sans-serif;
-    font-size: 35px;
+    font-size: 2vw;
+    padding: 15px;
+    position: relative;
+    top: 13%;
 }
 
-li a {
+.topnav li a {
     color:rgb(0, 0, 0);
     text-align: center;
     text-decoration: none;
+    padding: 15px;
 
 }
 
-li :hover {
+.topnav li :hover {
     background-color: rgb(170, 255, 220);
+    padding:15px;
 
 }
 
 .active {
     background-color: rgb(170, 255, 220);
+    padding:15px;
 }
 
 html, body {
