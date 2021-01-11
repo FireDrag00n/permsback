@@ -37,7 +37,7 @@ h2 {
 
 .topnav ul {
     list-style-type: none;
-    background-color: rgb(255, 206, 233);
+    background: linear-gradient(to right, #ffafbd, #ffc3a0);
     width: 1850px;
     height: 69px;
     margin: 0 auto;
