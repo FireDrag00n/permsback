@@ -193,8 +193,8 @@ body {
 
 .sadcattitle {
 	font-size: 40px;
-	margin-left: 360px;
-	margin-right: 2000px;
+	margin-left: 319px;
+	margin-right: 2015px;
 	margin-top: 90px;
 	margin-bottom: 250px;
 	position: absolute;
@@ -203,4 +203,13 @@ body {
 	left: 0;
 	top: 0;
 	color: black;
+	white-space: nowrap;
+}
+
+.sadcatvideo {
+	float: left;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	top: 0;
 }
