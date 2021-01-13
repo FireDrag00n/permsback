@@ -180,10 +180,19 @@ body {
 	font-family: 'Viga', sans-serif;
 	font-size: 100px;
 	font-weight: 600;
+	text-align: center;
 }
 
 .elmuchacho {
 	font-family: 'Viga', sans-serif;
 	font-size: 35px;
 	letter-spacing: 2px;
+	text-align: center;
+	position: relative;
+}
+
+.sadcatetitle {
+	font-size: 40px;
+	margin-right: 700px;
+	position: absolute;
 }
