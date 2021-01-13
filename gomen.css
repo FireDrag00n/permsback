@@ -27,14 +27,6 @@ p {
 	color: white;
 }
 
-p.images {
-	margin: auto;
-	margin-left: 10px;
-	margin-right: 12px;
-	margin-top: 1vw;
-	margin-bottom: 0%;
-}
-
 .topnav ul {
 	list-style-type: none;
 	background: linear-gradient(to right, #ffafbd, #ffc3a0);
