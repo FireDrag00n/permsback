@@ -191,8 +191,16 @@ body {
 	position: relative;
 }
 
-.sadcatetitle {
+.sadcattitle {
 	font-size: 40px;
-	margin-right: 700px;
+	margin-left: 360px;
+	margin-right: 2000px;
+	margin-top: 90px;
+	margin-bottom: 250px;
 	position: absolute;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	top: 0;
+	color: black;
 }
