@@ -239,4 +239,16 @@ body {
 	top: 0;
 	color: black;
 	white-space: nowrap;
+	height: 0;
+}
+
+.okidokivideo {
+	float: right;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	top: 0;
+	margin-top: 275px;
+	margin-bottom: 350px;
+	position: absolute;
 }
