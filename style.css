@@ -124,10 +124,6 @@ body {
 	position: static;
 }
 
-.mikasa {
-	position: static;
-}
-
 ::-webkit-scrollbar {
 	width: 12.7px;
 }
@@ -148,23 +144,6 @@ body {
 
 ::-webkit-scrollbar-thumb:active {
 	background: rgb(32, 131, 90);
-}
-
-.astolfo {
-	position: static;
-}
-
-.astolfo1 {
-	float: left;
-	margin: 0%;
-}
-
-.astolfo3 {
-	float: right;
-}
-
-.astolfo4 {
-	float: left;
 }
 
 .sadcat {
